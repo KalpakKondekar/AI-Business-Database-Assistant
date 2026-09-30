@@ -1,0 +1,8 @@
+# Project dependencies.
+pydantic>=2.7,<3
+sqlglot>=29,<30
+langgraph>=0.2
+langchain-core>=0.3
+langchain-ollama>=0.3
+ollama>=0.4
+streamlit>=1.40,<2
